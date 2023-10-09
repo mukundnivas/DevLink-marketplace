@@ -1,0 +1,28 @@
+a {
+    color: rgb(130, 132, 134);
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.social-icons-container {
+    display: flex;
+    gap: 20px; /* Adjust this value to control the spacing */
+  }
+
+.social-icons-container a{
+    font-size: 24px;
+}
+
+.Title {
+    text-align: center;
+}
+
+.DevLinkItems {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
