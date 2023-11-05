@@ -1,10 +1,7 @@
-# SIT313 - Task 7.1P
+# DevLink Marketplace
 
-This project is part is solution to SIT313 - Task 7.1P
+DevLink Marketplace a frontend project to explore on React JS and Frontend development. DevLink is an inspired from UpWork.
 
-## Updated made on Task 7.1P
-
--  Continued tasks from 5.1C
 - Added UI components required to signin and login
 - Connected app to Firebase API
 - Updated Project structure. More info on project structure below.
